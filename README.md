@@ -23,8 +23,6 @@ Users should be able to:
 ### Screenshot
 
 ![Desktop-design](./design/og-desktop-design.jpeg)
-![Tablet-design](./design/og-tablet-design.jpeg)
-![Mobile-design](./design/og-mobile-design.jpeg)
 
 ### Links
 
