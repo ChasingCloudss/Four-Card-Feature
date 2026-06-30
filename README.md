@@ -14,6 +14,12 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 
 ## Overview
 
+### The challenge
+
+Users should be able to:
+
+- View the optimal layout for the site depending on their device's screen size
+
 ### Screenshot
 
 ![Desktop-design](./design/og-desktop-design.jpeg)
