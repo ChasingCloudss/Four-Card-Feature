@@ -50,7 +50,7 @@ body {
     align-items: center;
     background-color: var(--grey);
     min-height: 100dvh;
-    line-height: 1.2rem;
+    line-height: 1.2;
     font-family: 'Poppins', sans-serif;
     font-weight: 400;
     color: var(--grey-400);
