@@ -89,19 +89,19 @@ body {
     gap: 2rem;
 }
 
-.red {
+.card-accent-red {
     border-top: 0.4rem solid var(--red);
 }
 
-.cyan {
+.card-accent-cyan {
     border-top: 0.4rem solid var(--cyan);
 }
 
-.orange {
+.card-accent-orange {
     border-top: 0.4rem solid var(--orange);
 }
 
-.blue {
+.card-accent-blue {
     border-top: 0.4rem solid var(--blue);
 }
 
@@ -138,16 +138,16 @@ body {
         gap: 2rem;
     }
 
-    .red {
+    .card-accent-red {
         grid-area: 1 / 1 / span 2 / 2;
     }
-    .cyan {
+    .card-accent-cyan {
         grid-area: 2 / 2 / span 2 / 3;
     }
-    .orange {
+    .card-accent-orange {
         grid-area: 3 / 1 / span 2 / 2;
     }
-    .blue {
+    .card-accent-blue {
         grid-area: 4 / 2 / span 2 / 3;
     }
 }
@@ -163,16 +163,16 @@ body {
         gap: 2rem;
     }
 
-    .red {
+    .card-accent-red {
         grid-area: 1 / 2 / span 2 / 3;
     }
-    .cyan {
+    .card-accent-cyan {
         grid-area: 2 / 1 / span 2 / 2;
     }
-    .orange {
+    .card-accent-orange {
         grid-area: 3 / 2 / span 2 / 3;
     }
-    .blue {
+    .card-accent-blue {
         grid-area: 2 / 3 / span 2 / 4;
     }
 }
