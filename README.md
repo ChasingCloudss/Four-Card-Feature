@@ -57,4 +57,4 @@ li {
 ## Author
 
 - Github - [https://github.com/ChasingCloudss/Four-Card-Feature](https://github.com/ChasingCloudss/Four-Card-Feature)
-- Frontend Mentor - [@ChasingCloudss](https://www.frontendmentor.io/profile/ChasingCloudss
+- Frontend Mentor - [@ChasingCloudss](https://www.frontendmentor.io/profile/ChasingCloudss)
