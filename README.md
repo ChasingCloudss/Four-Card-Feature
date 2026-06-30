@@ -22,10 +22,8 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 
 ### Links
 
-<!-- Remember to add the netlify link and github link here -->
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/ChasingCloudss/Four-Card-Feature](https://github.com/ChasingCloudss/Four-Card-Feature)
+- Live Site URL: [https://glittery-hamster-4badaf.netlify.app/](https://glittery-hamster-4badaf.netlify.app/)
 
 ## My process
 
@@ -54,5 +52,5 @@ li {
 
 ## Author
 
-- Github - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Github - [https://github.com/ChasingCloudss/Four-Card-Feature](https://github.com/ChasingCloudss/Four-Card-Feature)
+- Frontend Mentor - [@ChasingCloudss](https://www.frontendmentor.io/profile/ChasingCloudss
